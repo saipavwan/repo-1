@@ -6,7 +6,7 @@
 
   <groupId>webapps</groupId>
   <artifactId>webapps</artifactId>
-  <version>1.0-webapps</version>
+  <version>1.0-webapps-SNAPSHOT</version>
 
   <name>webapps</name>
   <!-- FIXME change it to the project's website -->
